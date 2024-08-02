@@ -1,0 +1,5 @@
+에셋에 대한 설명
+
+-Polytope Studio : 폴리곤 사람, 남성/여성, 의상 3가지
+-LowPolyRPGWeapons_Lite : 간단한 폴리곤 무기들 / 대검, 단검, 망치, 방패, 도끼, 활, 화살
+-DoubleL : 애니메이션 팩

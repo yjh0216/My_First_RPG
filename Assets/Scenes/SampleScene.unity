@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1363430800198003926, guid: 73f16e5585e3475459ded6fc6f1f6e7c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -1.018
       objectReference: {fileID: 0}
     - target: {fileID: 1363430800198003926, guid: 73f16e5585e3475459ded6fc6f1f6e7c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -181,9 +181,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 5f39e4448adccd44c8ed1223a9bec350, type: 2}
     - target: {fileID: 4903238853719832236, guid: 73f16e5585e3475459ded6fc6f1f6e7c, type: 3}
       propertyPath: m_WarningMessage
-      value: "\nBinding warning: Some generic clip(s) animate transforms that are
-        already bound by a Humanoid avatar. These transforms can only be changed
-        by Humanoid clips.\n\tTransform 'PT_LeftUpLeg'\n\tFrom animation clip 'Idle_Anim'"
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
